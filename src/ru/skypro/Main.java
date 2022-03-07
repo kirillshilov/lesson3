@@ -82,10 +82,9 @@ public class Main {
                 case 10 : System.out.println ("Октябрь");
                     break;
                 case 11 : System.out.println ("Ноябрь");
+                    break; case 12 : System.out.println ("Декабрь");
                     break;
-                case 12 : System.out.println ("Декабрь");
-                    break;
-               default : System.out.println ("Такого месяца не суцществует!");
+                default : System.out.println ("Такого месяца не суцществует!");
             }
 
 
